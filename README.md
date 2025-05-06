@@ -25,4 +25,4 @@ Backend: [Node.js, NestJS]
 
 Database: [PostgreSQL, Supabase]
 
-Other tools: [Prisma, JWT, Google API, Puppeteer, Dropbox, Nodemailer, Imgur]
+Other tools: [Prisma, JWT, Google API, Puppeteer, Dropbox, Nodemailer, Imgur, Docker]
