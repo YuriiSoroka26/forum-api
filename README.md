@@ -1,8 +1,8 @@
-Forum App
+**Forum App**
 A simple backend api that allows users to register, log in, and participate in discussions by creating threads and posting comments.
 The app demonstrates core web development concepts, including authentication, CRUD operations, and user interaction within a structured forum system.
 
-Features
+**Features**
 User authentication (register/login/logout)
 
 Create, view, and delete discussion threads
@@ -17,7 +17,7 @@ Backend API with structured routes and data validation
 
 Database integration for persistent storage
 
-Tech Stack
+**Tech Stack**
 
 Backend: [Node.js, NestJS]
 
